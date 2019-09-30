@@ -1,0 +1,17 @@
+{
+  "name": "apollo-react-node-hn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicoflojo/apollo-react-node-hn",
+  "author": "<nico@skubos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
