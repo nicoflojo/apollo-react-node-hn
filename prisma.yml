@@ -1,0 +1,6 @@
+endpoint: https://us1.prisma.sh/neeksflow-a5396a/apollo-react-node-prism-test/dev
+datamodel: datamodel.prisma
+
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client/
